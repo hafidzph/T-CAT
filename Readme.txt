@@ -3,7 +3,6 @@ File ini menjelaskan kelengkapan berkas proyek akhir kami yang berjudul Aplikasi
 
 1. File database sql dengan nama database: pboproject
 2. Source code project NetBeans
-3. Link Youtube tempat unggah video demo proyek akhir: https://youtu.be/vfH3XTus3Xg
 
 Kelompok Pengen Jadi Hacker:
 Muhammad Rafly Afrizal Pratama, B, 1402020062
